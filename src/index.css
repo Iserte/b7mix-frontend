@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Roboto, Arial, Helvetica, sans-serif
+}
+
+#root {
+  background-color: rgb(13, 25, 43);
+  height: 100vh;
+  color: #fff;
+}
+
+.accountData {
+  border: 2px solid rgb(20,40,65);
+}
+
+.self-user {
+  border: 1px solid rgb(19, 197, 19);
+}
